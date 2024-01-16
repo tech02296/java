@@ -1,2 +1,4 @@
-package com.gorest.crudtest;public class UserCRUDTest {
+package com.gorest.crudtest;
+
+public class UserCRUDTest {
 }

@@ -1,2 +1,4 @@
-package com.gorest.testbase;public class TestBase {
+package com.gorest.testbase;
+
+public class TestBase {
 }
