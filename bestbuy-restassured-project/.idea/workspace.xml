@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9bae7ff3-3206-43ba-8b2c-b764138597e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestbuy/utils/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestbuy/utils/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/crudtest/ProductsCRUDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/crudtest/StoresCURDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsuite/ProductsAssertionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsuite/ProductsExtractionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsuite/StoresAssertionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testsuite/StoresExtractionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/src/main/java/com/gorest/model/PostsPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/src/main/java/com/gorest/model/UserPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/src/main/java/com/gorest/utils/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/src/main/java/com/gorest/utils/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/src/test/java/com/gorest/crudtest/UserCRUDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/src/test/java/com/gorest/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/src/test/java/com/gorest/testsuite/PostsAssertionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/src/test/java/com/gorest/testsuite/PostsExtractionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/src/test/java/com/gorest/testsuite/UserAssertionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/src/test/java/com/gorest/testsuite/UserExtractionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java3/java3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-booker-restassured-project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-booker-restassured-project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-booker-restassured-project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-booker-restassured-project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-booker-restassured-project/src/main/java/com/restful/booker/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restful-booker-restassured-project/src/test/java/com/restful/booker/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java3/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2aufoW4dN59GX3czBzeqDxzmjxB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;one&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/java2/java/bestbuy-restassured-project/src/test/java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\java2\java\bestbuy-restassured-project\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bestbuy.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.StoresCURDTest.test003">
+    <configuration name="ProductsAssertionTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="bestbuy-restassured-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsuite" />
+      <option name="MAIN_CLASS_NAME" value="testsuite.ProductsAssertionTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsExtractionTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="bestbuy-restassured-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsuite" />
+      <option name="MAIN_CLASS_NAME" value="testsuite.ProductsExtractionTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsExtractionTest.test09" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="bestbuy-restassured-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsuite" />
+      <option name="MAIN_CLASS_NAME" value="testsuite.ProductsExtractionTest" />
+      <option name="METHOD_NAME" value="test09" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoresCURDTest.test002" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="bestbuy-restassured-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crudtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="crudtest" />
+      <option name="MAIN_CLASS_NAME" value="crudtest.StoresCURDTest" />
+      <option name="METHOD_NAME" value="test002" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoresCURDTest.test003" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="bestbuy-restassured-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crudtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="crudtest" />
+      <option name="MAIN_CLASS_NAME" value="crudtest.StoresCURDTest" />
+      <option name="METHOD_NAME" value="test003" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.StoresCURDTest.test003" />
+        <item itemvalue="TestNG.StoresCURDTest.test002" />
+        <item itemvalue="TestNG.ProductsAssertionTest" />
+        <item itemvalue="TestNG.ProductsExtractionTest" />
+        <item itemvalue="TestNG.ProductsExtractionTest.test09" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bae7ff3-3206-43ba-8b2c-b764138597e2" name="Changes" comment="" />
+      <created>1696281341640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696281341640</updated>
+    </task>
+    <servers />
+  </component>
+</project>
